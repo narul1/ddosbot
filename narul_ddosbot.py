@@ -1,4 +1,4 @@
-#MADE BY PHANTOM SERVICES
+
 import discord
 import os
 import asyncio
